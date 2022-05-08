@@ -1,0 +1,6 @@
+nav {
+    display: flex;
+    text-align: center;
+    padding-left: 350px;
+    justify-content: space-evenly;
+}
