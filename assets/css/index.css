@@ -4,3 +4,113 @@ nav {
     padding-left: 350px;
     justify-content: space-evenly;
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}   
+
+.info{
+    background-image: url(../css/img/moving\ 1.png);
+    background-size: cover;
+    height: 800px;
+    
+}
+
+.color {
+    background-color: #FAFF00;
+    color: black;
+}
+
+.button{
+    color: #FFAC12;
+    background-color: black;
+    padding: 6px;
+}
+
+h1{
+    color: #FAFF00;
+    padding-left: 100px;
+    padding-right: 650px;
+    margin-top: 30px;
+    font-size: 50px;
+}
+
+h2{
+    color: white;
+    margin-top: 100px;
+    padding-left: 100px;
+    padding-right: 800px;
+}
+.img1{
+    height: 400px;
+    margin-top: 50px;
+    display: flex;
+}
+
+h4{
+font-size: 50px;
+padding-left: 100px;
+}
+
+p{
+    padding-right: 800px;
+    padding-left: 100px;
+}
+
+.button1{
+    color: #FFAC12;
+    padding-left: 100px;
+
+}
+
+html{
+    font-style: Poppins,  Actor, Adamina;
+}
+
+.img2{
+    height: 250px;
+    width: 1100px;
+    margin-top: 200px;
+    padding-left: 100px;
+    align-self: center;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.img3{
+    height: 250px;
+    width: 1100px;
+    margin-top: 150px;
+    padding-left: 100px;
+    align-self: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+main {
+    background-color:gainsboro;
+}
+
+span{
+    color: #FFAC12;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 250px;
+}
+
+h5{
+    font-size: 25px;
+}
+
+.footer4{
+    justify-content: space-evenly;
+    display: flex;
+}
+
+ul{
+    list-style-type: none;
+}
