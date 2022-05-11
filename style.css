@@ -27,14 +27,9 @@ h4{
     font-size: 20px;
 }
 img{
-    height: 400px;
     padding-left: 250px;
 }
-.image1{
-    height: 30px;
-    width: 30px;
-    display: flex;
-}
+
 .forwardarrow{
     color: white;
 }
@@ -43,4 +38,29 @@ img{
     width: 200px;
     background-color: orange;
     border-top-right-radius: 15px;
+}
+#table1{
+    width: 30%;
+    height: 517px;
+    background-color: white;
+    float: right;
+    border-radius: 25px;
+    margin-top: 0;
+}
+
+.image1{
+    width: 70%;
+}
+
+.rectangles{
+    width: 91px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#rectangles{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
