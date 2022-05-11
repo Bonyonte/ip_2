@@ -14,3 +14,10 @@ body{
     width: 50%;
     float: right;
    }
+   .menulink{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px; 
+   }
+   
