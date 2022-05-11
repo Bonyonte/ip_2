@@ -9,15 +9,29 @@ body{
     height: 250px;
     background-color: black;
 }
-
 .navigbar2{
     width: 50%;
     float: right;
    }
-   .menulink{
+.menulink{
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 20px; 
    }
-   
+.menuitems{
+    list-style-type: none;   
+}
+.menu{
+    text-decoration: none;
+    color: silver;
+}
+.orange{
+    text-decoration: none;
+    color: orange;
+}
+.btnh{
+   text-decoration: none;
+   color: black;
+   font-size: large;
+}
